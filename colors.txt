@@ -5,3 +5,7 @@ Blue
 Yellow
 White
 Black
+
+Orange
+Pink
+Violet
