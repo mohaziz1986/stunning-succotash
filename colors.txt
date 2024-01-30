@@ -1,4 +1,7 @@
 Red
 Green
 Blue
-§
+
+Yellow
+White
+Black
